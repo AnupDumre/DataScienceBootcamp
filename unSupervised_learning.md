@@ -1,4 +1,3 @@
-```markdown
 # KMeans Clustering and Scatter Plots
 
 This repository contains Python code for KMeans clustering and scatter plots using the Iris dataset and the Seeds dataset.
@@ -14,15 +13,11 @@ This repository contains Python code for KMeans clustering and scatter plots usi
 
 1. Clone this repository to your local machine.
 
-```
 git clone <repository-url>
-```
 
 2. Install the required libraries by running the following command:
 
-```
 pip install pandas matplotlib scikit-learn
-```
 
 3. Run the Python script to perform KMeans clustering and generate scatter plots.
 
@@ -40,9 +35,7 @@ The `sepal_vs_petal.py` script performs KMeans clustering on the Iris dataset, p
 
 To run the script:
 
-```
 python sepal_vs_petal.py
-```
 
 ### Seeds Dataset
 
@@ -50,9 +43,9 @@ The `Seed_Data.csv` file contains the Seeds dataset. The script reads the datase
 
 To run the script:
 
-```
+
 python sepal_vs_petal.py
-```
+
 
 ## Results
 
